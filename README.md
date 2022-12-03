@@ -13,5 +13,5 @@ The bikeshare project requests input from the user about a city and timeframe, f
 bikeshare.py
 
 ### Credits
-Credit to Udacity for the templates for all files herein.
+Credit to Udacity for the templates for all files herein. And, of course, to myself for being simply awesome
 
